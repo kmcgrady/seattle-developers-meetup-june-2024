@@ -1,0 +1,4 @@
+duckduckgo-search
+langchain-community==0.2.6
+openai==1.35.5
+streamlit==1.36.0
